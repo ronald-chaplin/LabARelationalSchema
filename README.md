@@ -1,1 +1,3 @@
 # LabARelationalSchema
+
+![](image.png)
